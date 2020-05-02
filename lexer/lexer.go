@@ -1,4 +1,4 @@
-// lexer/lexer.go
+// Package lexer houese the lexer and gives us control over how we interpret the language
 package lexer
 
 import (
